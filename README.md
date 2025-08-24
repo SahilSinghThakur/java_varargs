@@ -6,5 +6,5 @@ I created these examples to understand how varargs work in different scenarios l
 - Varargs with primitive types
 - Varargs with objects
 - Varargs with multi-dimensional arrays
-- Ambiguity cases with overloading
-- 
+- Ambiguity cases with overriding
+  
